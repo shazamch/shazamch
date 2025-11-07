@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Software Engineer: Architecting and developing intelligent, full-stack web applications.<br>🖥️ Frontend Developer: Creating responsive user interfaces using React and Tailwind CSS at EZ MD Solutions.<br>🤖 Data Scientist: NVIDIA stock prices prediction using LSTM.<br>🛠️ Tech Skills: Proficient in Node.js, SQL, and IoT simulations.<br>📊 Project Management: Leading a Looker Studio event project at Namal University.
+💻 Software Engineer: Architecting and developing intelligent, full-stack web applications.<br>🖥️ Automating complex & manual workflows and enhance operational efficiency across scalable systems.<br>🤖 Data Scientist: NVIDIA stock prices prediction using LSTM.<br>🛠️ Tech Skills: Proficient in Node.js, SQL, and IoT simulations.<br>📊 Project Management: Leading a Looker Studio event project at Namal University.
 
 
 # 💻 Tech Stack:
