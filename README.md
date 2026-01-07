@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Software Engineer: Architecting and developing intelligent, full-stack web applications.<br>🖥️ Automating complex & manual workflows and enhance operational efficiency across scalable systems.<br>🤖 Data Scientist: NVIDIA stock prices prediction using LSTM.<br>🛠️ Tech Skills: Proficient in Node.js, SQL, and IoT simulations.<br>📊 Project Management: Leading a Looker Studio event project at Namal University.
+Full-stack engineer specializing in **scalable application development** with expertise in secure, data-driven web systems. Experienced in integrating **AI services and intelligent agents** into products and backend workflows to enhance automation and efficiency. Proficient in system integrations and compliance-focused development, delivering reliable and adaptive solutions using modern best practices.
 
 # 🧙‍♂️ Featured Open Source:
 ## [Grimoire UI (@shazam-codes/grimoire)](https://www.npmjs.com/package/@shazam-codes/grimoire)
